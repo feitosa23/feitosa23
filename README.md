@@ -18,6 +18,7 @@
 - JavaScript
 - Git
 - GitHub
+- Java
 
 ---
 
