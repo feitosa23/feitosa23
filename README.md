@@ -43,7 +43,7 @@ Conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior.
 ## 📫 Contato
 
 - GitHub: https://github.com/feitosa23
-- LinkedIn: (linkedin.com/in/henry-almeida-dev)
+- LinkedIn: (https://www.linkedin.com/in/henry-almeida-dev/)
 - Email: (almeidafeitosa41@gmial)
 
 ---
