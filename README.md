@@ -12,10 +12,9 @@ Atualmente estudo desenvolvimento web e programação, criando projetos prático
 🚀 Apaixonado por tecnologia e em constante aprendizado.
 
 ---
-
 ## 📚 Atualmente estudando
 
-## 🚀 Tecnologias em estudo
+## 🚀 Tecnologias em estudos
 
 ### Desenvolvimento Web
 - HTML5
