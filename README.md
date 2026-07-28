@@ -40,6 +40,12 @@ Atualmente estudo desenvolvimento web e programação, criando projetos prático
 
 Conquistar minha primeira oportunidade como Desenvolvedor Full Stack Júnior.
 
+## 📫 Contato
+
+- GitHub: https://github.com/feitosa23
+- LinkedIn: (linkedin.com/in/henry-almeida-dev)
+- Email: (almeidafeitosa41@gmial)
+
 ---
 
 ⭐ Seja bem-vindo ao meu perfil!
