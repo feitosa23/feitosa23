@@ -5,7 +5,9 @@
 
 💻 Desenvolvedor Full Stack em formação.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+🎓Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de desenvolvimento de software.
+
+Atualmente estudo desenvolvimento web e programação, criando projetos práticos para evoluir minhas habilidades e construir um portfólio profissional.
 
 🚀 Apaixonado por tecnologia e em constante aprendizado.
 
