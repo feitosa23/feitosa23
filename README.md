@@ -15,12 +15,20 @@ Atualmente estudo desenvolvimento web e programação, criando projetos prático
 
 ## 📚 Atualmente estudando
 
-- HTML
-- CSS
+## 🚀 Tecnologias em estudo
+
+### Desenvolvimento Web
+- HTML5
+- CSS3
 - JavaScript
+
+### Programação
+- Java
+
+### Ferramentas
 - Git
 - GitHub
-- Java
+- VS Code
 
 ---
 
