@@ -9,6 +9,10 @@
 
 Atualmente estudo desenvolvimento web e programação, criando projetos práticos para evoluir minhas habilidades e construir um portfólio profissional.
 
+## Tecnologias
+
+## Projetos em destaque
+
 🚀 Apaixonado por tecnologia e em constante aprendizado.
 
 ---
