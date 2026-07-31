@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou Henry Almeida!
 
-💻 Desenvolvedor Full Stack em formação.
+💻 Desenvolvedor Web/Full Stack em formação.
 
 🎓Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de desenvolvimento de software.
 
