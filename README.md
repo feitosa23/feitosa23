@@ -7,7 +7,7 @@
 
 🎓Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha jornada na área de desenvolvimento de software.
 
-Atualmente estudo desenvolvimento web e programação, criando projetos práticos para evoluir minhas habilidades e construir um portfólio profissional.
+Atualmente estudo desenvolvimento web e programação em BACK-END, criando projetos práticos para evoluir minhas habilidades e construir um portfólio profissional.
 
 ## Tecnologias
 
